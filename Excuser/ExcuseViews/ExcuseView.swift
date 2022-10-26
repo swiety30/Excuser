@@ -35,7 +35,7 @@ struct ExcuseView: View {
         }
         .onAppear {
             Task {
-                try await getNewExcuse()
+                await getNewExcuse()
             }
         }
         .padding()
@@ -69,7 +69,7 @@ struct ExcuseView: View {
     var refreshButton: some View {
         Button {
             Task {
-                try await getNewExcuse()
+                await getNewExcuse()
             }
         } label: {
             ZStack {
