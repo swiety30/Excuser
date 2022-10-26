@@ -6,7 +6,7 @@ https://github.com/primeTanM/Excuser
 https://excuser.herokuapp.com
 
 ## Usage
-![excuser](https://user-images.githubusercontent.com/18267785/197973903-ae19b9ef-cc4d-4053-9925-0505594bbe1d.gif =500x30)
+<img src="https://user-images.githubusercontent.com/18267785/197973903-ae19b9ef-cc4d-4053-9925-0505594bbe1d.gif" alt="Excuser showcase gif" title="Excuser showcase gif" width="500"/>
 
 Chose one of category
 Wait for excuse to be generated
